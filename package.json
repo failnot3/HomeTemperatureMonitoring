@@ -1,0 +1,17 @@
+{
+  "name": "simplsrvnodejs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "graph.js": "^1.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
