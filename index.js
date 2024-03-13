@@ -6,7 +6,7 @@ const url = require('url');
 const Chart = require('chart.js');
 
 // Inside and outside temperature endpoints
-const INSIDE_TEMPERATURE_ENDPOINT = 'http://192.168.5.116/temperaturec';
+const INSIDE_TEMPERATURE_ENDPOINT = '<ADD-YOUR-OWN>';
 const OUTSIDE_TEMPERATURE_ENDPOINT = 'https://api.open-meteo.com/v1/forecast?latitude=<REPLACE-WITH-YOUR-COORDONATES>&longitude=<REPLACE-WITH-YOUR-COORDONATES>&current=temperature_2m';
 
 // Database setup
